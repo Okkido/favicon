@@ -49,3 +49,7 @@ Add your graphic to every Artboard in `favicons.sketch`. Run `Plugins/Icon Slate
 
 ## TODO
 Add a configuration file for all sizes listed in [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet/blob/master/README.rst).
+
+## CHANGELOG
+
+Added [standard tiles formats](https://msdn.microsoft.com/en-us/library/dn320426(v=vs.85).aspx) for Internet Explorer to sketch file
